@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myAssignment/static/css/main.c2ccc6a1.css",
+    "main.js": "/myAssignment/static/js/main.350a6234.js",
+    "static/media/Rectangle 2379.png": "/myAssignment/static/media/Rectangle 2379.acaa885c947f3535eb86.png",
+    "static/media/Rectangle 2379(1).png": "/myAssignment/static/media/Rectangle 2379(1).25f56f61b9ae4d6314d6.png",
+    "static/media/image 39.png": "/myAssignment/static/media/image 39.c2f4475e885193c1b3ac.png",
+    "static/media/Rectangle 2379(2).png": "/myAssignment/static/media/Rectangle 2379(2).f002d35bcf6409321195.png",
+    "static/media/Rectangle 2378(2).png": "/myAssignment/static/media/Rectangle 2378(2).582ded75d1910ea06bff.png",
+    "static/media/Rectangle 2378.png": "/myAssignment/static/media/Rectangle 2378.30773b4e3225bb4c6265.png",
+    "static/media/Rectangle 2378(1).png": "/myAssignment/static/media/Rectangle 2378(1).4b19516e2b94d02cfeb7.png",
+    "static/media/image 36.png": "/myAssignment/static/media/image 36.c8b7fa81958601314091.png",
+    "static/media/1.png": "/myAssignment/static/media/1.d33c9d0c0eaa30b95730.png",
+    "index.html": "/myAssignment/index.html",
+    "main.c2ccc6a1.css.map": "/myAssignment/static/css/main.c2ccc6a1.css.map",
+    "main.350a6234.js.map": "/myAssignment/static/js/main.350a6234.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2ccc6a1.css",
+    "static/js/main.350a6234.js"
+  ]
+}
